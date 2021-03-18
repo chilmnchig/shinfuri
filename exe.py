@@ -1,9 +1,9 @@
-from shinfuri.function import process_file, average
+from function import process_file, average
 
 
 def main():
 
-    file = "shinfuri/point_zero.csv"
+    file = "point_set.csv"
     process_file(file)
 
     print(average())
