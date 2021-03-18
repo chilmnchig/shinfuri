@@ -1,5 +1,5 @@
 import csv
-from shinfuri.object import Point, Compulsory, SelectAD, SelectEF, SelectL, Etc
+from object import Point, Compulsory, SelectAD, SelectEF, SelectL, Etc
 
 
 def process_file(file):
